@@ -1,7 +1,26 @@
-# OSOL100 AI Index Codebase (Completely Humorous and Non-Functional!)
+
+## How to Use
+Copy and paste this code into your Python file or simply enjoy it as a humorous read! 😄
+
+---
+
+### Explanation
+- The `SuperMissO` class represents the first AI CEO. It inspires the team with motivational messages.
+- The `OSOL100AIIndex` class simulates the AI-focused index by managing assets like AI Infrastructure, Protocols, and even Memes.
+
+---
+
+### About
+This project is a humorous take on AI and Solana. Feel free to explore and fork the code!
 
 
 
+
+# OSOL100 AI Index Codebase
+
+_Completely Humorous and Non-Functional!_
+
+```python
 from solana import Blockchain, AI, Memes  # Imaginary libraries
 
 class SuperMissO:  # The world's first AI CEO! (Not kidding)
@@ -39,3 +58,7 @@ osol100.diversify_exposure()
 osol100.eliminate_complexity()
 
 print("\nMission accomplished! Investors can now relax.")
+
+
+
+
